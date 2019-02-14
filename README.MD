@@ -16,7 +16,9 @@ Support to add Joystick & Button to Control Input Layer of Game.
   - Open SneakyInput/proj.ios_mac/SneakyInput.xcodeproj by Xcode 
   - Enable multitouch for project (https://stackoverflow.com/a/54646945/7019803) by: 
   Open file RootViewController.mm
-![](https://user-images.githubusercontent.com/11188632/52761046-6dd38980-3044-11e9-8c55-e145d6f4f161.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/11188632/52761046-6dd38980-3044-11e9-8c55-e145d6f4f161.png" alt="Image" width="150" height="200" />
+</p>
   
   Change this line
 ```sh
